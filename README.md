@@ -44,4 +44,3 @@ Kodoc is a web-based document editor that treats every save as a commit. Never l
 - **JWT** - Authentication
 - **bcryptjs** - Password hashing
 
-## 🏗️ Architecture
